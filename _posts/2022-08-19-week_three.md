@@ -27,8 +27,8 @@ Following my initial experiments with the falling text on mouse click, I came up
   INSERT IFRAME HERE
 
   But then I found this great reference by sgrigg, who used an array to combine shapes together. 
-  The link is here if you want to see it: https://editor.p5js.org/sgrigg/sketches/Ui6KxnBzh 
-  I figured that the RMIT logo was just three shapes put together: a semi-circle, a rectangle, and a smaller rectangle. 
+  The link is here if you want to see it: (https://editor.p5js.org/sgrigg/sketches/Ui6KxnBzh)
+  I figured that the RMIT logo was just three shapes put together: a semi-circle, a rectangle, and a smaller rectangle. So I created those shapes using the individual shape functions and positioned them together.
 
   I ended up creating this:
 
