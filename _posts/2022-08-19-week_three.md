@@ -34,8 +34,8 @@ Following my initial experiments with the falling text on mouse click, I came up
 
 <iframe width=400 height=442 style="display: block; margin: 0 auto" src="https://editor.p5js.org/elishafitri/full/k7u_1dvnT"></iframe>
   
-  
-  Now, all I had to do was combine this concept with the dropping words, and I would have my mini scavenger hunt! To add something interesting in the background, I used the same bouncing shape in the original header, but used a big fat ellipse instead. In doing so, I was able to explore using pi to create a kind of stylised sine wave graph. 
+
+  Now, all I had to do was combine this concept with the dropping words, and I would have my mini scavenger hunt! To add something interesting in the background, I used the same bouncing shape in Thomas's original header, but adjusted some of the function properties and used a nice, big ellipse instead. In doing so, I was able to explore using pi to create a kind of stylised sine wave graph. 
     
   And that's how i got to the final product! Thanks for taking the time to read my blog and I hope you've enjoyed reading about the my journey on this project.
   
