@@ -1,6 +1,6 @@
 ---
 layout     : post
-title      : "p5: Development + Reflections"
+title      : "p5: Development"
 date       : 2022-08-19
 categories : Creative Coding
 ---
@@ -19,21 +19,21 @@ Following my initial experiments with the falling text on mouse click, I came up
 
 
   <br>
-  In addition to this, I browsed through the RMIT Brand Guidelines document and found that the uni logo would be the perfect piece of treasure to find. With this in mind, I then went about trying to find out how to create custom shapes in p5. Although it would be easier to use the image as an asset, I wanted to explore how I could create a custome shape in p5.
+  In addition to this, I browsed through the RMIT Brand Guidelines document and found that the uni logo would be the perfect piece of treasure to find. With this in mind, I then went about trying to find out how to create custom shapes in p5. Although it would be easier to use the image as an asset, I wanted to explore how I could create a custom shape in p5.
      
 
-  I first tried to create this shape using `beginShape ()`:
+  I first explored custom shapes (learning from [The Coding Train's tutorial](https://www.youtube.com/watch?v=76fiD5DvzeQ)) by using `beginShape ()`:
 
-  INSERT IFRAME HERE
+<iframe width=400 height=442 style="display: block; margin: 0 auto" src="https://editor.p5js.org/elishafitri/full/qzBzoP_BC"></iframe>
+  
+  <br>
 
-  But then I found this great reference by sgrigg, who used an array to combine shapes together. 
-  The link is here if you want to see it: (https://editor.p5js.org/sgrigg/sketches/Ui6KxnBzh)
-  I figured that the RMIT logo was just three shapes put together: a semi-circle, a rectangle, and a smaller rectangle. So I created those shapes using the individual shape functions and positioned them together.
+  Then, I found this [great reference by sgrigg](https://editor.p5js.org/sgrigg/sketches/Ui6KxnBzh), who used an array to combine shapes together. I figured that the RMIT logo was just three shapes put together: a semi-circle, a rectangle, and a smaller rectangle;so I created those shapes using the individual shape functions and positioned them together.
 
   I ended up creating this:
 
 <iframe width=400 height=442 style="display: block; margin: 0 auto" src="https://editor.p5js.org/elishafitri/full/k7u_1dvnT"></iframe>
-
+  
   
   Now, all I had to do was combine this concept with the dropping words, and I would have my mini scavenger hunt! To add something interesting in the background, I used the same bouncing shape in the original header, but used a big fat ellipse instead. In doing so, I was able to explore using pi to create a kind of stylised sine wave graph. 
     
