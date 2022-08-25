@@ -11,7 +11,7 @@ Here is the final product!
  
 <br> 
 
-The user must click around the screen to find the RMIT pixel logo. It will only appear when the user clicks on a specific area of the screen. The point is that while they are looking for the logo, the words Creative Coding Specialisation 
+The user must click around the screen to find the RMIT pixel logo. It will only appear when the user clicks on a specific area of the screen. The point is that while they are looking for the logo, the words Creative Coding Specialisation will be revealed.
 
 ### Process
 Following my initial experiments with the falling text on mouse click, I came up with a concept for the project assignment: a scavenger hunt!
