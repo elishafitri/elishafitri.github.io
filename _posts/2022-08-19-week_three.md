@@ -40,6 +40,8 @@ Following my initial experiments with the falling text on mouse click, I came up
 
   Now, all I had to do was combine this concept with the dropping words, and I would have my mini scavenger hunt! To add something interesting in the background, I used the same bouncing shape in Thomas's original header, but adjusted some of the function properties and used a nice, big ellipse instead. In doing so, I was able to explore using pi to create a kind of stylised sine wave graph. 
     
-  And that's how i got to the final product! Thanks for taking the time to read my blog and I hope you've enjoyed reading about the my journey on this project.
+  And that's how I got to the final product! Thanks for taking the time to read my blog and I hope you've enjoyed reading about the my journey on this project.
+
+  [Back to home](https://elishafitri.github.io/)
   
 
