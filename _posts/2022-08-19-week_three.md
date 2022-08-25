@@ -9,6 +9,7 @@ categories : Creative Coding
 Here is the final product!
 <iframe width=576 height=366 style="display: block; margin: 0 auto" src="https://editor.p5js.org/elishafitri/full/kwDo6BLOw"></iframe> 
  
+<br> 
 
 ### Process
 Following my initial experiments with the falling text on mouse click, I came up with a concept for the project assignment: a scavenger hunt!
@@ -28,7 +29,7 @@ Following my initial experiments with the falling text on mouse click, I came up
   
   <br>
 
-  Then, I found this [great reference by sgrigg](https://editor.p5js.org/sgrigg/sketches/Ui6KxnBzh), who used an array to combine shapes together. I figured that the RMIT logo was just three shapes put together: a semi-circle, a rectangle, and a smaller rectangle;so I created those shapes using the individual shape functions and positioned them together.
+  Then, I found this [great reference by sgrigg](https://editor.p5js.org/sgrigg/sketches/Ui6KxnBzh), who used an array to combine shapes together. I figured that the RMIT logo was just three shapes put together: a semi-circle, a rectangle, and a smaller rectangle; so I created those shapes using the individual shape functions and positioned them together.
 
   I ended up creating this:
 
