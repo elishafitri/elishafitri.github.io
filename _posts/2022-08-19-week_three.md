@@ -24,16 +24,19 @@ Following my initial experiments with the falling text on mouse click, I came up
 
   I first tried to create this shape using `beginShape ()`:
 
-  But then I found this great reference by 
+  INSERT IFRAME HERE
+
+  But then I found this great reference by sgrigg, who used an array to combine shapes together. 
+  The link is here if you want to see it: https://editor.p5js.org/sgrigg/sketches/Ui6KxnBzh 
+  I figured that the RMIT logo was just three shapes put together: a semi-circle, a rectangle, and a smaller rectangle. 
 
   I ended up creating this:
 
-<iframe src="https://editor.p5js.org/elishafitri/full/k7u_1dvnT"></iframe>
+<iframe width=400 height=442 style="display: block; margin: 0 auto" src="https://editor.p5js.org/elishafitri/full/k7u_1dvnT"></iframe>
 
   
   Now, all I had to do was combine this concept with the dropping words, and I would have my mini scavenger hunt! To add something interesting in the background, I used the same bouncing shape in the original header, but used a big fat ellipse instead. In doing so, I was able to explore using pi to create a kind of stylised sine wave graph. 
-
     
-    And that's how i got to the final product! Thanks for taking the time to read my blog and I hope you've enjoyed reading about the my journey on this project.
+  And that's how i got to the final product! Thanks for taking the time to read my blog and I hope you've enjoyed reading about the my journey on this project.
   
 
