@@ -6,5 +6,5 @@ layout: home
 ---
 
 <head>
-<link rel="shortcut icon" type="image/png" href="favicon.png">
+<link rel="shortcut icon" type="image/png" href="images/LOGO.png">
 </head>
