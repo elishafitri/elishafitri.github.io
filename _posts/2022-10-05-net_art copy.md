@@ -1,0 +1,38 @@
+---
+layout     : post
+title      : "Net Art: Dream Space"
+date       : 2022-10-06
+categories : Creative Coding
+---
+
+### Ideating
+Now that I had a bit of an idea of the concept I was going to go with, I first made a list of all the components I would need to create the final product:
+
+<img src="/images/components.jpeg" style="display: block; margin: 0 auto; width:200"/>
+
+ 
+ <br>
+
+<iframe width=400 height=442 style="display: block; margin: 0 auto" src="https://editor.p5js.org/elishafitri/full/j1TtUhdav"></iframe>
+
+<br> 
+
+<iframe width=400 height=442 style="display: block; margin: 0 auto" src="https://editor.p5js.org/elishafitri/full/zPbtaBfSN"></iframe>
+
+<br>
+  
+
+
+<details>
+  <summary>References</summary>
+  
+  1. dmkldlkadad
+
+  ```
+</details>
+
+<br> <br> <br>
+
+  [Back to home](https://elishafitri.github.io/)
+  
+
