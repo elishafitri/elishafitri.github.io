@@ -5,4 +5,4 @@ permalink: /about/
 ---
 Hellooo
 
-Welcome to my blog where I'll be documenting my creative coding journey :)
+Welcome to my blog. This is where I'll be documenting my creative coding journey :)
